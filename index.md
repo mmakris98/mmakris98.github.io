@@ -1,8 +1,8 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
-<div class="container fixed-top header" style="background-color: black; text-color: white; height: 50px">
+<header class="container fixed-top header" style="background-color: black; text-color: white; height: 50px">
 Mark Makris | Student
-</div>
+</header>
 
 <div class="theBody">
   <div class="card" style="width: 18rem;">
