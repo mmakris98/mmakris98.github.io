@@ -64,6 +64,6 @@ Mark Makris | Student
   </div>
 </div>
 
-<footer class="footer">
+<footer class="theFooter">
 Footer
 </footer>
