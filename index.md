@@ -1,13 +1,13 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
-<header class="fixed-top header" style="background-color: black; color: white; height: 50px; width: 100%; text-align: center">
+<header class="fixed-top header">
 Mark Makris | Student
 </header>
 
 <div class="container theBody">
   <div class="container">
-    <div class="card" style="width: 18rem;">
+    <div class="card" style="width: 80%;">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -64,6 +64,6 @@ Mark Makris | Student
   </div>
 </div>
 
-<footer class="footer" style="background-color: black; color: white; height: 50px; text-align: center">
+<footer class="footer">
 Footer
 </footer>
