@@ -14,6 +14,6 @@ Mark Makris | Student
 </div>
 </div>
 
-<div class="footer" style="background-color: blue; text-color: pink">
+<footer class="footer" style="background-color: blue; text-color: pink">
 
-</div>
+</footer>
