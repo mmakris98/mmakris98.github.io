@@ -1,7 +1,7 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
 <div class="container header">
-Mark Makris
+Mark Makris | Student
 </div>
 
   <div class="card" style="width: 18rem;">
