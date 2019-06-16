@@ -1,5 +1,5 @@
 .theHeader{
-  background-color: #F62A00; 
+  background-color: #598234; 
   color: #F1F3CE; 
   height: 80px; 
   width: 100%; 
@@ -12,12 +12,17 @@
 }
 
 .theFooter{
-  background-color: black; 
+  background-color: #598234; 
   color: white; 
   height: 50px; 
   text-align: center;
 }
 
+.thePiece(
+  background-color: AEBD38;
+  margin-top: 15px;
+}
+
 body{
-  background-color: #505160
+  background-color: #505160;
 }  
