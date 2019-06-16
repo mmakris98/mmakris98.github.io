@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
-<div class="container fixed-top header" style="background-color: black; text-color: white">
+<div class="container fixed-top header" style="background-color: black; text-color: white; height: 200px">
 Mark Makris | Student
 </div>
 
@@ -14,6 +14,6 @@ Mark Makris | Student
 </div>
 </div>
 
-<div class="footer background-color" style="background-color: blue; text-color: pink">
+<div class="footer" style="background-color: blue; text-color: pink">
 
 </div>
