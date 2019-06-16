@@ -2,7 +2,8 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
 <header class="fixed-top theHeader">
-Mark Makris | Student
+  <p>Mark Makris | Student</p>
+  <p>mmakris98@gmail.com</p>
 </header>
 
 <div class="container theBody">
