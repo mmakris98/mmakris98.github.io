@@ -1,3 +1,18 @@
+.header{
+  background-color: black; 
+  color: white; 
+  height: 50px; 
+  width: 100%; 
+  text-align: center;
+}  
+
 .theBody{
   margin-top: 50px;
+}
+
+.footer{
+  background-color: black; 
+  color: white; 
+  height: 50px; 
+  text-align: center;
 }
