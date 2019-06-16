@@ -7,7 +7,7 @@
 </header>
 
 <div class="container theBody">
-  <div class="container">
+  <div class="container thePiece">
     <div class="card" style="width: 80%;">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
