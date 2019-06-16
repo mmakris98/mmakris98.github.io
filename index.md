@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
-<div class="navbar bg-bark">
+<div class="navbar bg-bark text-center">
 Mark Makris
 </div>
 
