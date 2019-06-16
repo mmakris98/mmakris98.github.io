@@ -1,8 +1,8 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
-<div class="navbar bg-bark text-center">
+<nav class="container">
 Mark Makris
-</div>
+</nav>
 
   <div class="card" style="width: 18rem;">
   <div class="card-body">
