@@ -1,7 +1,7 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
-<header class="fixed-top header">
+<header class="fixed-top theHeader">
 Mark Makris | Student
 </header>
 
