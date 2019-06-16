@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 
-<div class="container header">
+<div class="container fixed-top header" style="background-color: black">
 Mark Makris | Student
 </div>
 
