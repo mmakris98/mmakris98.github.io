@@ -15,5 +15,5 @@ Mark Makris | Student
 </div>
 
 <footer class="footer" style="background-color: blue; height: 50px">
-
+Footer
 </footer>
