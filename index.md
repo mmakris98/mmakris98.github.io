@@ -1,10 +1,11 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
+<link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
 <header class="fixed-top header" style="background-color: black; color: white; height: 50px; width: 100%; text-align: center">
 Mark Makris | Student
 </header>
 
-<div class="container theBody" style="margin-top: 50px">
+<div class="container theBody">
   <div class="container">
     <div class="card" style="width: 18rem;">
       <div class="card-body">
