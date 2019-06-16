@@ -1,6 +1,6 @@
 .theHeader{
   background-color: #598234; 
-  color: #68829E; 
+  color: black; 
   height: 80px; 
   width: 100%; 
   text-align: center;
@@ -20,7 +20,7 @@
 
 .thePiece{
   background-color: #AEBD38;
-  color: #68829E;
+  color: black;
   margin-top: 15px;
   width: 80%;
 }
