@@ -1,14 +1,14 @@
 .theHeader{
   background-color: #598234; 
   color: #F1F3CE; 
-  height: 95px; 
+  height: 80px; 
   width: 100%; 
   text-align: center;
   vertical-align: center;
 }  
 
 .theBody{
-  margin-top: 80px;
+  margin-top: 95px;
 }
 
 .theFooter{
