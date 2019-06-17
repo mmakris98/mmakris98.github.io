@@ -8,6 +8,7 @@
 
 <div class="container theBody">
   <hr/>
+  <div style="background-color: black">
   <h3 class="theTitle">
     Education
   </h3>
@@ -29,6 +30,7 @@
         <p class="card-text">Graduated: May 2019</p>
       </div>
     </div>
+  </div>
   </div>
   
   <hr/>
