@@ -4,7 +4,7 @@
 <div class="jumbotron justify-content-md-center" style="background-color: black;">
   <div class="row">
     <div class="col-md-3">
-      
+      <hr/>
     </div>
     <div class="col-md-6">
       <img src="/assets/img/americanFlag.png" class="rounded float-left img-fluid">
@@ -13,7 +13,7 @@
       <img src="/assets/img/frenchFlag.jpg" class="rounded float-right img-fluid">
     </div>
     <div class="col-md-3">
-      
+      <hr/>
     </div>
   </div>
 </div>
