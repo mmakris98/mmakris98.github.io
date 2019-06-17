@@ -24,7 +24,8 @@
       <h5 class="card-title">University of Maryland, Baltimore County</h5>
       <p class="card-text">Bachelors of Science: Information Systems</p>
       <p class="card-text">Focus in statistics and analytics</p>
-      <p class="card-text">GPA: 3.75/4.0</p>
+      <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
+      <p class="card-text">Honors: Magna Cum Laude</p>
       <p class="card-text">Graduated: May 2019</p>
     </div>
   </div>
