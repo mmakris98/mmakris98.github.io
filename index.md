@@ -7,6 +7,10 @@
 </header>
 
 <div class="container theBody">
+  <hr/>
+  <h3>
+    Education
+  </h3>
   <div class="card justify-content-md-center thePiece">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
