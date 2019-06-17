@@ -11,14 +11,15 @@
   <h3 class="theTitle">
     Education
   </h3>
-  <div class="card justify-content-md-center thePiece">
+  <div class="row">
+  <div class="card justify-content-md-center thePiece col-md-6">
     <div class="card-body">
       <h5 class="card-title">National University of Ireland Galway</h5>
       <p class="card-text">Masters: Computer Science(Data Analytics)</p>
       <p class="card-text"> Anticipated graduation: 2020</p>
     </div>
   </div>
-  <div class="card justify-content-md-center thePiece">
+  <div class="card justify-content-md-center thePiece col-md-6">
     <div class="card-body">
       <h5 class="card-title">University of Maryland, Baltimore County</h5>
       <p class="card-text">Bachelors of Science: Information Systems</p>
@@ -27,6 +28,7 @@
       <p class="card-text">Honors: Magna Cum Laude</p>
       <p class="card-text">Graduated: May 2019</p>
     </div>
+  </div>
   </div>
   
   <hr/>
