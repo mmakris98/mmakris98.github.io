@@ -1,8 +1,8 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
-<div class="jumbotron" style="background-color: black;">
-  <h1 class="display-4">Mark Makris</h1>
+<div class="jumbotron justify-content-md-center" style="background-color: black;">
+  <h1 class="display-4" style="color: white;">Mark Makris</h1>
   <p class="lead">Contact me at: mmakris98@gmail.com</p>
 </div>
 
