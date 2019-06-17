@@ -8,7 +8,7 @@
 
 <div class="container theBody">
   <hr/>
-  <div style="background-color: black">
+  <div class="jumbotron" style="background-color: black; width: 90%; ">
   <h3 class="theTitle">
     Education
   </h3>
@@ -92,7 +92,3 @@
     </div>
   </div>
 </div>
-
-<footer class="fixed-bottom theFooter">
-Footer
-</footer>
