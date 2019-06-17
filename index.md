@@ -8,7 +8,7 @@
 
 <div class="container theBody">
   <hr/>
-  <h3 class="justify-content-md-center">
+  <h3 class="theTitle">
     Education
   </h3>
   <div class="card justify-content-md-center thePiece">
@@ -18,7 +18,7 @@
     </div>
   </div>
   <hr/>
-  <h3 class="justify-content-md-center">
+  <h3 class="theTitle">
     Work
   </h3>
   <div class="card justify-content-md-center thePiece">
@@ -28,7 +28,7 @@
     </div>
   </div>
   <hr/>
-  <h3 class="justify-content-md-center">
+  <h3 class="theTitle">
     Projects
   </h3>
   <div class="card thePiece">
