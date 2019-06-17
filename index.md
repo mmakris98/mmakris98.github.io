@@ -9,7 +9,7 @@
 <div class="container">
   <div class="jumbotron" style="background-color: black;">
     <h1 class="display-4" style="color: white;">Education</h1>
-    <div class="card justify-content-md-center thePiece">
+    <div class="card justify-content-md-center" style="background-color: grey;>
       <div class="card-body" style="background-color: grey;>
         <h5 class="card-title" style="color: white;">National University of Ireland Galway</h5>
         <p class="card-text" style="color: white;">Masters: Computer Science(Data Analytics)</p>
