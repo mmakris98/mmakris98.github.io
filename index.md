@@ -19,28 +19,34 @@
 <div class="container">
   <hr/>
   <div class="jumbotron" style="background-color: black;">
-  <h1 class="display-4" style="color: white;">Education</h1>
-  <div class="row">
-    <div class="card justify-content-md-center thePiece col-md-6">
-      <div class="card-body">
-        <h5 class="card-title">National University of Ireland Galway</h5>
-        <p class="card-text">Masters: Computer Science(Data Analytics)</p>
-        <p class="card-text"> Anticipated graduation: 2020</p>
+    <h1 class="display-4" style="color: white;">Education</h1>
+    <div class="row">
+      <div class="card justify-content-md-center thePiece col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">National University of Ireland Galway</h5>
+          <p class="card-text">Masters: Computer Science(Data Analytics)</p>
+          <p class="card-text"> Anticipated graduation: 2020</p>
+        </div>
+      </div> 
+      <div class="col-md-6">
+        <img src="/assets/img/NUIG.png" class="rounded img-fluid">
       </div>
-      <div class="card-body">
-        <h5 class="card-title">University of Maryland, Baltimore County</h5>
-        <p class="card-text">Bachelors of Science: Information Systems</p>
-        <p class="card-text">Focus in statistics and analytics</p>
-        <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
-        <p class="card-text">Honors: Magna Cum Laude</p>
-        <p class="card-text">Graduated: May 2019</p>
+    </div> 
+    <div class="row">  
+      <div class="card justify-content-md-center thePiece col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">University of Maryland, Baltimore County</h5>
+          <p class="card-text">Bachelors of Science: Information Systems</p>
+          <p class="card-text">Focus in statistics and analytics</p>
+          <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
+          <p class="card-text">Honors: Magna Cum Laude</p>
+          <p class="card-text">Graduated: May 2019</p>
+        </div>
       </div>
-    </div>
-    <div class="card justify-content-md-center thePiece col-md-6">
-      <img src="/assets/img/NUIG.png" class="rounded img-fluid">
-      <img src="/assets/img/UMBC.png" class="rounded img-fluid">
-    </div>
-  </div>
+      <div class="col-md-6">
+        <img src="/assets/img/UMBC.png" class="rounded img-fluid">
+      </div>
+    </div>  
   </div>
   
   <hr/>
