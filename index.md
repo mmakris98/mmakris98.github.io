@@ -35,8 +35,17 @@
   </h3>
   <div class="card justify-content-md-center thePiece">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Anne Arundel County Office of Informaation Technology</h5>
+      <p class="card-text">Mobile development: Annapolis, MD 2019</p>
+      <p class="card-text">Full stack web development: Annapolis, MD 2017</p>
+      <p class="card-text">Skills: HTML, CSS, Java, Javascript</p>
+    </div>
+  </div>
+  <div class="card justify-content-md-center thePiece">
+    <div class="card-body">
+      <h5 class="card-title">Cru Global Headquarters</h5>
+      <p class="card-text">Data Science & Analytics Intern: Orlando, FL 2018</p>
+      <p class="card-text">Skills: Dashboard development, SQL scripting</p>
     </div>
   </div>
   
@@ -49,6 +58,14 @@
       <h5 class="card-title">Alhpa Pih Omega - AZPi</h5>
       <p class="card-text">President: 2018-2019</p>
       <p class="card-text">Sergeant-At-Arms: 2018</p>
+      <p class="card-text">Skills: Handling dissagrements, Leading/Coordinating events</p>
+    </div>
+  </div>
+  <div class="card thePiece">
+    <div class="card-body">
+      <h5 class="card-title">Cru</h5>
+      <p class="card-text">Leadership team: 2018-2019</p>
+      <p class="card-text">Skills: Facilitation discussions, Coordinating events</p>
     </div>
   </div>
   
@@ -58,8 +75,14 @@
   </h3>
   <div class="card thePiece">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Functional Database</h5>
+      <p class="card-text">Created a database to </p>
+    </div>
+  </div>
+  <div class="card thePiece">
+    <div class="card-body">
+      <h5 class="card-title">System Analysis & Design</h5>
+      <p class="card-text">Developed a full project plan</p>
     </div>
   </div>
 </div>
