@@ -11,26 +11,14 @@
   margin-top: 95px;
 }
 
-.theFooter{
-  background-color: #598234; 
-  color: white; 
-  height: 50px; 
-  text-align: center;
-}
-
 .thePiece{
-  background: rgba(0,0,200,.4);
+  background: white;
   color: black;
   margin-top: 15px;
   text-align: center;
   border-style: solid;
-  border-color: black;
 }
-
-.theTitle{
-  text-align: center;
-}  
   
 body{
-  background-color: grey;
+  background-color: white;
 }  
