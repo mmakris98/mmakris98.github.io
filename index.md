@@ -4,14 +4,16 @@
 <div class="jumbotron justify-content-md-center" style="background-color: black;">
   <div class="row">
     <div class="col-md-3">
-      <img src="/assets/img/americanFlag.png" class="rounded float-left img-fluid">
+      
     </div>
     <div class="col-md-6">
+      <img src="/assets/img/americanFlag.png" class="rounded float-left img-fluid">
       <h1 class="display-4" style="color: white;">Mark Makris</h1>
       <p class="lead" style="color: white;">Contact me at: mmakris98@gmail.com</p>
+      <img src="/assets/img/frenchFlag.jpg" class="rounded float-right img-fluid">
     </div>
     <div class="col-md-3">
-      <img src="/assets/img/frenchFlag.jpg" class="rounded float-right img-fluid">
+      
     </div>
   </div>
 </div>
@@ -19,7 +21,7 @@
 <div class="container">
   <hr/>
   <div class="jumbotron" style="background-color: black;">
-  <h1 class="display-4">Education</h1>
+  <h1 class="display-4" style="color: white;">Education</h1>
   <div class="row">
     <div class="card justify-content-md-center thePiece col-md-6">
       <div class="card-body">
