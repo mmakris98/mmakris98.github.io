@@ -10,20 +10,20 @@
   <div class="jumbotron" style="background-color: black;">
     <h1 class="display-4" style="color: white;">Education</h1>
     <div class="card justify-content-md-center thePiece">
-      <div class="card-body">
-        <h5 class="card-title">National University of Ireland Galway</h5>
-        <p class="card-text">Masters: Computer Science(Data Analytics)</p>
-        <p class="card-text"> Anticipated graduation: 2020</p>
+      <div class="card-body" style="background-color: grey;>
+        <h5 class="card-title" style="color: white;">National University of Ireland Galway</h5>
+        <p class="card-text" style="color: white;">Masters: Computer Science(Data Analytics)</p>
+        <p class="card-text" style="color: white;"> Anticipated graduation: 2020</p>
       </div>
     </div> 
     <div class="card justify-content-md-center thePiece">
-      <div class="card-body">
-        <h5 class="card-title">University of Maryland, Baltimore County</h5>
-        <p class="card-text">Bachelors of Science: Information Systems</p>
-        <p class="card-text">Focus in statistics and analytics</p>
-        <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
-        <p class="card-text">Honors: Magna Cum Laude</p>
-        <p class="card-text">Graduated: May 2019</p>
+      <div class="card-body" style="background-color: grey;>
+        <h5 class="card-title" style="color: white;">University of Maryland, Baltimore County</h5>
+        <p class="card-text" style="color: white;">Bachelors of Science: Information Systems</p>
+        <p class="card-text" style="color: white;">Focus in statistics and analytics</p>
+        <p class="card-text" style="color: white;">GPA: 3.75/4.0, Top 5% in major</p>
+        <p class="card-text" style="color: white;">Honors: Magna Cum Laude</p>
+        <p class="card-text" style="color: white;">Graduated: May 2019</p>
       </div>
     </div>  
   </div>
