@@ -12,42 +12,44 @@
     Education
   </h3>
   <div class="row">
-  <div class="card justify-content-md-center thePiece col-md-6">
-    <div class="card-body">
-      <h5 class="card-title">National University of Ireland Galway</h5>
-      <p class="card-text">Masters: Computer Science(Data Analytics)</p>
-      <p class="card-text"> Anticipated graduation: 2020</p>
+    <div class="card justify-content-md-center thePiece col-md-6">
+      <div class="card-body">
+        <h5 class="card-title">National University of Ireland Galway</h5>
+        <p class="card-text">Masters: Computer Science(Data Analytics)</p>
+        <p class="card-text"> Anticipated graduation: 2020</p>
+      </div>
     </div>
-  </div>
-  <div class="card justify-content-md-center thePiece col-md-6">
-    <div class="card-body">
-      <h5 class="card-title">University of Maryland, Baltimore County</h5>
-      <p class="card-text">Bachelors of Science: Information Systems</p>
-      <p class="card-text">Focus in statistics and analytics</p>
-      <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
-      <p class="card-text">Honors: Magna Cum Laude</p>
-      <p class="card-text">Graduated: May 2019</p>
+    <div class="card justify-content-md-center thePiece col-md-6">
+      <div class="card-body">
+        <h5 class="card-title">University of Maryland, Baltimore County</h5>
+        <p class="card-text">Bachelors of Science: Information Systems</p>
+        <p class="card-text">Focus in statistics and analytics</p>
+        <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
+        <p class="card-text">Honors: Magna Cum Laude</p>
+        <p class="card-text">Graduated: May 2019</p>
+      </div>
     </div>
-  </div>
   </div>
   
   <hr/>
   <h3 class="theTitle">
     Work
   </h3>
-  <div class="card justify-content-md-center thePiece">
-    <div class="card-body">
-      <h5 class="card-title">Anne Arundel County Office of Informaation Technology</h5>
-      <p class="card-text">Mobile development: Annapolis, MD 2019</p>
-      <p class="card-text">Full stack web development: Annapolis, MD 2017</p>
-      <p class="card-text">Skills: HTML, CSS, Java, Javascript</p>
+  <div class="row">
+    <div class="card justify-content-md-center thePiece col-md-6">
+      <div class="card-body">
+        <h5 class="card-title">Anne Arundel County Office of Informaation Technology</h5>
+        <p class="card-text">Mobile development: Annapolis, MD 2019</p>
+        <p class="card-text">Full stack web development: Annapolis, MD 2017</p>
+        <p class="card-text">Skills: HTML, CSS, Java, Javascript</p>
+      </div>
     </div>
-  </div>
-  <div class="card justify-content-md-center thePiece">
-    <div class="card-body">
-      <h5 class="card-title">Cru Global Headquarters</h5>
-      <p class="card-text">Data Science & Analytics Intern: Orlando, FL 2018</p>
-      <p class="card-text">Skills: Dashboard development, SQL scripting</p>
+    <div class="card justify-content-md-center thePiece col-md-6">
+      <div class="card-body">
+        <h5 class="card-title">Cru Global Headquarters</h5>
+        <p class="card-text">Data Science & Analytics Intern: Orlando, FL 2018</p>
+        <p class="card-text">Skills: Dashboard development, SQL scripting</p>
+      </div>
     </div>
   </div>
   
