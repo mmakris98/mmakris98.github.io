@@ -11,7 +11,7 @@
       <p class="lead" style="color: white;">Contact me at: mmakris98@gmail.com</p>
     </div>
     <div class="col-md-3">
-      <img src="/assets/img/frenchFlag.   " class="rounded float-left">
+      <img src="/assets/img/frenchFlag.jpg" class="rounded float-left">
     </div>
   </div>
 </div>
