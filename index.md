@@ -1,17 +1,15 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
-<header class="fixed-top theHeader">
-  <h1>Mark Makris</h1>
-  <p>mmakris98@gmail.com</p>
-</header>
+<div class="jumbotron" style="background-color: black;">
+  <h1 class="display-4">Mark Makris</h1>
+  <p class="lead">Contact me at: mmakris98@gmail.com</p>
+</div>
 
-<div class="container theBody">
+<div class="container">
   <hr/>
-  <div class="jumbotron" style="background-color: black; width: 90%; ">
-  <h3 class="theTitle">
-    Education
-  </h3>
+  <div class="jumbotron" style="background-color: black;">
+  <h1 class="display-4">Education</h1>
   <div class="row">
     <div class="card justify-content-md-center thePiece col-md-6">
       <div class="card-body">
