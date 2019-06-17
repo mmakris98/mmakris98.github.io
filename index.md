@@ -2,8 +2,18 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
 <div class="jumbotron justify-content-md-center" style="background-color: black;">
-  <h1 class="display-4" style="color: white;">Mark Makris</h1>
-  <p class="lead">Contact me at: mmakris98@gmail.com</p>
+  <div class="row">
+    <div class="col-md-3">
+      <img src="/assets/img/americanFlag.png" class="rounded float-left">
+    </div>
+    <div class="col-md-6">
+      <h1 class="display-4" style="color: white;">Mark Makris</h1>
+      <p class="lead" style="color: white;">Contact me at: mmakris98@gmail.com</p>
+    </div>
+    <div class="col-md-3">
+      <img src="/assets/img/frenchFlag.   " class="rounded float-left">
+    </div>
+  </div>
 </div>
 
 <div class="container">
