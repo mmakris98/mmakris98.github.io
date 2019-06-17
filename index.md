@@ -2,54 +2,32 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/my.css" />
 
 <div class="jumbotron justify-content-md-center" style="background-color: black;">
-  <div class="row">
-    <div class="col-md-3">
-      <img src="/assets/img/americanFlag.png" class="rounded img-fluid">
-    </div>
-    <div class="col-md-6">
       <h1 class="display-4" style="color: white;">Mark Makris</h1>
       <p class="lead" style="color: white;">Contact me at: mmakris98@gmail.com</p>
-    </div>
-    <div class="col-md-3">
-      <img src="/assets/img/frenchFlag.jpg" class="rounded img-fluid">
-    </div>
-  </div>
 </div>
 
 <div class="container">
-  <hr/>
   <div class="jumbotron" style="background-color: black;">
     <h1 class="display-4" style="color: white;">Education</h1>
-    <div class="row">
-      <div class="card justify-content-md-center thePiece col-md-6">
-        <div class="card-body">
-          <h5 class="card-title">National University of Ireland Galway</h5>
-          <p class="card-text">Masters: Computer Science(Data Analytics)</p>
-          <p class="card-text"> Anticipated graduation: 2020</p>
-        </div>
-      </div> 
-      <div class="col-md-6">
-        <img src="/assets/img/NUIG.png" class="rounded img-fluid">
+    <div class="card justify-content-md-center thePiece">
+      <div class="card-body">
+        <h5 class="card-title">National University of Ireland Galway</h5>
+        <p class="card-text">Masters: Computer Science(Data Analytics)</p>
+        <p class="card-text"> Anticipated graduation: 2020</p>
       </div>
     </div> 
-    <div class="row">  
-      <div class="card justify-content-md-center thePiece col-md-6">
-        <div class="card-body">
-          <h5 class="card-title">University of Maryland, Baltimore County</h5>
-          <p class="card-text">Bachelors of Science: Information Systems</p>
-          <p class="card-text">Focus in statistics and analytics</p>
-          <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
-          <p class="card-text">Honors: Magna Cum Laude</p>
-          <p class="card-text">Graduated: May 2019</p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <img src="/assets/img/UMBC.png" class="rounded img-fluid">
+    <div class="card justify-content-md-center thePiece">
+      <div class="card-body">
+        <h5 class="card-title">University of Maryland, Baltimore County</h5>
+        <p class="card-text">Bachelors of Science: Information Systems</p>
+        <p class="card-text">Focus in statistics and analytics</p>
+        <p class="card-text">GPA: 3.75/4.0, Top 5% in major</p>
+        <p class="card-text">Honors: Magna Cum Laude</p>
+        <p class="card-text">Graduated: May 2019</p>
       </div>
     </div>  
   </div>
   
-  <hr/>
   <h3 class="theTitle">
     Work
   </h3>
