@@ -1,0 +1,18 @@
+.card {
+  margin: 5px 1px 3px 0px;
+}
+
+.card:hover {
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 15px rgba(81, 203, 238, 1);
+}
+
+.jumbotron:hover {
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 15px rgba(81, 203, 238, 1);
+}
+
+footer:hover {
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 15px rgba(81, 203, 238, 1);
+}
