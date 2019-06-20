@@ -24,3 +24,11 @@ footer:hover {
 .nav-link:hover {
   color: rgba(81, 203, 238, 1);
 }
+
+i.fa:hover {
+  color: rgba(81, 203, 238, 1);
+}
+
+a > img:hover {
+  color: rgba(81, 203, 238, 1);
+}
