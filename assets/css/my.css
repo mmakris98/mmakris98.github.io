@@ -16,3 +16,11 @@ footer:hover {
   transition: all 0.3s ease-in-out;
   box-shadow: 0 0 15px rgba(81, 203, 238, 1);
 }
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: rgba(81, 203, 238, 1);
+}
