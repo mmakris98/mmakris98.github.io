@@ -1,36 +1,42 @@
+/*put some margins between the cards*/
 .card {
   margin: 5px 1px 3px 0px;
 }
 
-.card:hover {
+/*border glow on hover*/
+.card:hover, .jumbotron:hover, footer:hover  {
   transition: all 0.3s ease-in-out;
   box-shadow: 0 0 15px rgba(81, 203, 238, 1);
 }
 
-.jumbotron:hover {
-  transition: all 0.3s ease-in-out;
-  box-shadow: 0 0 15px rgba(81, 203, 238, 1);
+/*black background color*/
+.jumbotron {
+  background-color: black;
 }
 
-footer:hover {
-  transition: all 0.3s ease-in-out;
-  box-shadow: 0 0 15px rgba(81, 203, 238, 1);
-}
-
-.nav-link {
+/*white text color*/
+.display-4, .lead, .nav-link, .card-title, .card-text {
   color: white;
 }
 
+/*nav link text color change on hover*/
 .nav-link:hover {
   color: rgba(81, 203, 238, 1);
 }
 
+/*icon rotation left*/
 #ig:hover {
   transition: all 2s ease-in-out;
   transform: rotateZ(-360deg);
 }
 
+/*icon rotation right*/
 #disc:hover {
   transition: all 2s ease-in-out;
   transform: rotateZ(360deg);
+}
+
+/*Card styling*/
+.card-body {
+  background-color: black;
 }
